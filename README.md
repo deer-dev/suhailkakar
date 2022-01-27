@@ -8,7 +8,6 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
@@ -169,9 +168,9 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
       </a>
-      <br>Flask
+      <br>Solidity
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
